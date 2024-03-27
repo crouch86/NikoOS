@@ -1,0 +1,438 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Preset xmlns="urn:schemas-nliteos-com:pn.v1">
+	<Date>03/27/2024 21:24:58</Date>
+	<AppInfo>
+		<Version>2024.3.9833</Version>
+		<Licensed>No</Licensed>
+		<Protections>Yes</Protections>
+		<Host>Windows 8.1 Single Language U3 x64 - 6.3.9600.20571 (tr-TR)</Host>
+	</AppInfo>
+	<ImageInfo>
+		<Version mode="offline">Windows 11 Professional 23H2 x64 - 10.0.22631.2861 (tr-TR)</Version>
+		<GUID>{9551A3F2-33AE-4DC3-9F86-BC9310AD0AF0}</GUID>
+	</ImageInfo>
+	<RemoveComponents AppRemovalMode="DISM">
+		<c>1527c705-839a-4832-9118-54d4bd6a0c89 'File Picker'</c>
+		<c>adamclient 'Active Directory Hafif Dizin Hizmetleri (AD LDS)'</c>
+		<c>appv 'Uygulama Sanallaştırma (App-V)'</c>
+		<c>apxunit 'APX hoparlör ve mikrofon sürücüsü'</c>
+		<c>assembly.net '.NET derleme önbelleği'</c>
+		<c>branchcacheclient 'BranchCache İstemcisi'</c>
+		<c>c5e2524a-ea46-4f67-841f-6a9465d9d515 'Dosya Gezgini (Legacy)'</c>
+		<c>clipchamp.clipchamp 'Clipchamp'</c>
+		<c>datacenterbridging 'Veri Merkezi Köprüleme (DCB)'</c>
+		<c>e2a4f912-2574-4a75-9bb0-0d023378592b 'AppResolverUX'</c>
+		<c>easeofaccessthemes 'Erişim Kolaylığı Temaları'</c>
+		<c>embeddedexperience 'Cihaz Kilitleme (Yerleşik Deneyim)'</c>
+		<c>enhancedstorage 'Geliştirilmiş Depolama'</c>
+		<c>enterpriseclientsync 'Çalışma Klasörleri İstemci'</c>
+		<c>f46d4000-fd22-4db4-ac8e-4e1ddde828fe</c>
+		<c>fciclient 'Dosya Sunucusu Kaynak Yöneticisi'</c>
+		<c>help 'Windows Yardım içeriği'</c>
+		<c>helpsupport 'Yardım dosyası desteği (CHM)'</c>
+		<c>hwsupport_internetprintingclient 'İnternet Yazdırma İstemcisi'</c>
+		<c>hwsupport_scanner 'Tarayıcı'</c>
+		<c>hwsupport_wia 'Windows Görüntü Alma (WIA)'</c>
+		<c>hypervguest 'Hyper-V Entegrasyon Hizmetleri'</c>
+		<c>ias 'İnternet Kimlik Doğrulama Hizmeti (IAS)'</c>
+		<c>iis 'İnternet Bilgi Sunucusu (IIS)'</c>
+		<c>internetexplorer32 'Internet Explorer - 32 bit'</c>
+		<c>kerneldebug 'Çekirdek Hata Ayıklama'</c>
+		<c>la57 '57-bit Doğrusal Adresleme'</c>
+		<c>langarabic 'Arapça'</c>
+		<c>langbasque 'Baskça'</c>
+		<c>langbulgarian 'Bulgarca'</c>
+		<c>langcatalan 'Katalanca'</c>
+		<c>langchineses 'Çince (Basitleştirilmiş)'</c>
+		<c>langchineset 'Çince (Geleneksel)'</c>
+		<c>langcroatian 'Hırvatça'</c>
+		<c>langczech 'Çekçe'</c>
+		<c>langdanish 'Danca'</c>
+		<c>langdutch 'Hollandaca'</c>
+		<c>langenglishgb 'İngilizce (GB)'</c>
+		<c>langenglishus 'İngilizce (US)'</c>
+		<c>langestonian 'Estonca'</c>
+		<c>langfinnish 'Fince'</c>
+		<c>langfrench 'Fransızca'</c>
+		<c>langfrenchcanadian 'Fransızca (Kanada)'</c>
+		<c>langgalician 'Galiçyaca'</c>
+		<c>langgerman 'Almanca'</c>
+		<c>langgreek 'Yunanca'</c>
+		<c>langhebrew 'İbranice'</c>
+		<c>langhungarian 'Macarca'</c>
+		<c>langime 'Giriş Yöntemi Düzenleyicisi (IME)'</c>
+		<c>langimejp 'Japonca (IME)'</c>
+		<c>langimeko 'Korece (IME)'</c>
+		<c>langimetc 'Çince (Geleneksel) (IME)'</c>
+		<c>langindonesian 'Endonezce'</c>
+		<c>langitalian 'İtalyanca'</c>
+		<c>langjapanese 'Japonca'</c>
+		<c>langkorean 'Korece'</c>
+		<c>langlatvian 'Letonca'</c>
+		<c>langlithuanian 'Litvanca'</c>
+		<c>langnorwegian 'Norveççe'</c>
+		<c>langpolish 'Polonyaca'</c>
+		<c>langportuguesebr 'Portekizce (Brezilya)'</c>
+		<c>langportuguesept 'Portekizce'</c>
+		<c>langromanian 'Rumence'</c>
+		<c>langrussian 'Rusça'</c>
+		<c>langserbian 'Sırpça'</c>
+		<c>langslovak 'Slovakça'</c>
+		<c>langslovenian 'Sloven'</c>
+		<c>langspanish 'İspanyolca'</c>
+		<c>langswedish 'İsveççe'</c>
+		<c>langthai 'Tayca'</c>
+		<c>langukrainian 'Ukraynaca'</c>
+		<c>langvietnamese 'Vietnamca'</c>
+		<c>lxss 'Linux İçin Windows Alt Sistemi'</c>
+		<c>manifestbackup 'Manifest Backup (WinSxS\Backup)'</c>
+		<c>manualsetup 'Manuel Kurulum'</c>
+		<c>mediacodec 'Windows Medya Kodekleri'</c>
+		<c>mediacodec32 'Windows Medya Kodekleri - 32 bit'</c>
+		<c>mediacodeccore 'Windows Medya Kodekleri (Çekirdek)'</c>
+		<c>mediafoundation32 'Medya Vakfı - 32 bit'</c>
+		<c>mediaplayer 'Windows Medya Oynatıcı'</c>
+		<c>mediaplayer32 'Windows Medya Oynatıcı - 32 bit'</c>
+		<c>mediaplayernetworksharing 'WMP Ağ Paylaşım Hizmeti'</c>
+		<c>mediaplayernetworksharing32 'WMP Ağ Paylaşım Hizmeti - 32 bit'</c>
+		<c>microsoft.549981c3f5f10 'Cortana'</c>
+		<c>microsoft.aad.brokerplugin 'AAD.BrokerPlugin'</c>
+		<c>microsoft.accountscontrol 'AccountsControl'</c>
+		<c>microsoft.asynctextservice 'AsyncTextService'</c>
+		<c>microsoft.bingnews 'BingNews'</c>
+		<c>microsoft.bingweather 'BingWeather'</c>
+		<c>microsoft.bioenrollment 'BioEnrollment'</c>
+		<c>microsoft.creddialoghost 'CredDialogHost'</c>
+		<c>microsoft.desktopappinstaller 'DesktopAppInstaller'</c>
+		<c>microsoft.ecapp 'Eye Control'</c>
+		<c>microsoft.gamingapp 'Xbox Uygulaması'</c>
+		<c>microsoft.gethelp 'GetHelp'</c>
+		<c>microsoft.getstarted 'İpuçları (Başlarken)'</c>
+		<c>microsoft.lockapp 'LockApp'</c>
+		<c>microsoft.microsoftedgedevtoolsclient 'MicrosoftEdgeDevToolsClient'</c>
+		<c>microsoft.microsoftofficehub 'Office'</c>
+		<c>microsoft.microsoftsolitairecollection 'Microsoft Solitaire Collection'</c>
+		<c>microsoft.microsoftstickynotes 'MicrosoftStickyNotes'</c>
+		<c>microsoft.paint 'Paint'</c>
+		<c>microsoft.people 'People'</c>
+		<c>microsoft.powerautomatedesktop 'PowerAutomateDesktop'</c>
+		<c>microsoft.sechealthui 'Windows Defender'</c>
+		<c>microsoft.storepurchaseapp 'StorePurchaseApp'</c>
+		<c>microsoft.todos 'Todos'</c>
+		<c>microsoft.vp9videoextensions 'VP9VideoExtensions'</c>
+		<c>microsoft.webmediaextensions 'WebMediaExtensions'</c>
+		<c>microsoft.webpimageextension 'WebpImageExtension'</c>
+		<c>microsoft.win32webviewhost 'Win32WebViewHost'</c>
+		<c>microsoft.windows.assignedaccesslockapp 'AssignedAccessLockApp'</c>
+		<c>microsoft.windows.callingshellapp 'CallingShellApp'</c>
+		<c>microsoft.windows.capturepicker 'Yakalama Seçici'</c>
+		<c>microsoft.windows.contentdeliverymanager 'İçerik Dağıtım Yöneticisi'</c>
+		<c>microsoft.windows.narratorquickstart 'NarratorQuickStart'</c>
+		<c>microsoft.windows.oobenetworkcaptiveportal 'OOBENetworkCaptivePortal'</c>
+		<c>microsoft.windows.oobenetworkconnectionflow 'OOBENetworkConnectionFlow'</c>
+		<c>microsoft.windows.parentalcontrols 'ParentalControls'</c>
+		<c>microsoft.windows.peopleexperiencehost 'PeopleExperienceHost'</c>
+		<c>microsoft.windows.photos 'Photos'</c>
+		<c>microsoft.windows.pinningconfirmationdialog 'PinningConfirmationDialog'</c>
+		<c>microsoft.windows.printqueueactioncenter 'PrintQueueActionCenter'</c>
+		<c>microsoft.windows.secureassessmentbrowser 'SecureAssessmentBrowser'</c>
+		<c>microsoft.windows.xgpuejectdialog 'XGpuEjectDialog'</c>
+		<c>microsoft.windowsalarms 'WindowsAlarms'</c>
+		<c>microsoft.windowscalculator 'WindowsCalculator'</c>
+		<c>microsoft.windowscamera 'WindowsCamera'</c>
+		<c>microsoft.windowscommunicationsapps 'windowscommunicationsapps'</c>
+		<c>microsoft.windowsfeedbackhub 'WindowsFeedbackHub'</c>
+		<c>microsoft.windowsmaps 'WindowsMaps'</c>
+		<c>microsoft.windowssoundrecorder 'WindowsSoundRecorder'</c>
+		<c>microsoft.windowsstore 'Windows Mağazası'</c>
+		<c>microsoft.windowsterminal 'WindowsTerminal'</c>
+		<c>microsoft.xbox.tcui 'Xbox TCUI'</c>
+		<c>microsoft.xboxgamecallableui 'XboxGameCallableUI'</c>
+		<c>microsoft.xboxgameoverlay 'Xbox Game Bar Plugin'</c>
+		<c>microsoft.xboxgamingoverlay 'XboxGamingOverlay'</c>
+		<c>microsoft.xboxidentityprovider 'XboxIdentityProvider'</c>
+		<c>microsoft.xboxspeechtotextoverlay 'XboxSpeechToTextOverlay'</c>
+		<c>microsoft.yourphone 'YourPhone'</c>
+		<c>microsoft.zunemusic 'ZuneMusic'</c>
+		<c>microsoft.zunevideo 'ZuneVideo'</c>
+		<c>microsoftcorporationii.quickassist</c>
+		<c>microsoftwindows.client.cbs 'Windows Özellik Deneyimi Paketi - Masaüstü'</c>
+		<c>microsoftwindows.client.webexperience 'Windows Web Deneyim Paketi'</c>
+		<c>mobilepc 'MobilPC'</c>
+		<c>mobilepc_location 'Konum bildirimleri'</c>
+		<c>mobilepc_networkprojection 'Ağ Projeksiyonu'</c>
+		<c>mobilepc_sensors 'Sensörler'</c>
+		<c>msmq 'Microsoft Mesaj Kuyruğu (MSMQ)'</c>
+		<c>multipointconnector 'MultiPoint Bağlayıcı'</c>
+		<c>ncsiuwpapp 'Windows Web Deneyimi Paketi'</c>
+		<c>otherthemes 'Windows Kişiselleştirme temaları'</c>
+		<c>peertopeer 'Peer Networking'</c>
+		<c>photoviewer 'Fotoğraf Görüntüleyici'</c>
+		<c>photoviewer32 'Fotoğraf Görüntüleyici - 32 bit'</c>
+		<c>powershell32 'PowerShell - 32 bit'</c>
+		<c>powershellise32 'PowerShell ISE - 32 bit'</c>
+		<c>printtopdf 'PDF'ye Yazdır'</c>
+		<c>rdc 'Uzak Diferansiyel Sıkıştırma (RDC)'</c>
+		<c>rdpclient32 'Uzak Masaüstü İstemcisi - 32 bit'</c>
+		<c>remoteaccessservice 'Yönlendirme ve Uzaktan Erişim Hizmeti'</c>
+		<c>remoteactivex32 'Uzak Masaüstü Hizmetleri ActiveX İstemcisi - 32 bit'</c>
+		<c>remoteassistance 'Uzaktan Yardım'</c>
+		<c>remotefx</c>
+		<c>remoteportredirector 'Uzak Masaüstü Hizmetleri Port Yönlendiricisi'</c>
+		<c>rotationmanager 'Otomatik Döndürme Yöneticisi'</c>
+		<c>search 'Windows Search'</c>
+		<c>sensorservice 'Sensörler - Hizmet'</c>
+		<c>sharemediacpl 'Medya Kontrol Panelini Paylaş'</c>
+		<c>simpletcp 'Basit TCP/IP hizmetleri'</c>
+		<c>smbdirect 'SMB Doğrudan (RDMA)'</c>
+		<c>snmp 'Basit Ağ Yönetimi Protokolü (SNMP)'</c>
+		<c>sourcessxsdir 'Manuel özellik deposu'</c>
+		<c>stici 'Hareketsiz Görüntü Sınıfı Yükleyici'</c>
+		<c>supportdir 'Support dizini'</c>
+		<c>systemrestore 'Sistem Geri Yükleme'</c>
+		<c>tabletpc 'Tablet Bilgisayar'</c>
+		<c>telnetclient 'Telnet İstemcisi'</c>
+		<c>textprediction 'Metin tahmini'</c>
+		<c>tftpclient 'TFTP istemcisi'</c>
+		<c>uev 'Kullanıcı Deneyimi Sanallaştırma (UE-V)'</c>
+		<c>vpn 'Sanal Özel Ağ (VPN) desteği'</c>
+		<c>wallet 'Cüzdan Hizmeti'</c>
+		<c>wallpaperdefault 'Duvar Kağıdı (Varsayılan)'</c>
+		<c>wallpapers 'Duvar Kağıtları (Temalar)'</c>
+		<c>webcamexperience 'Web Kamerası Deneyimi'</c>
+		<c>windows.cbspreview 'CBSPreview'</c>
+		<c>windows.printdialog 'PrintDialog'</c>
+		<c>windowstogo 'Windows To Go'</c>
+		<c>winocr 'Windows TIFF IFilter (OCR)'</c>
+		<c>winsat 'Windows Sistem Değerlendirme Aracı (WinSAT)'</c>
+		<c>xbox 'Xbox - Çekirdek'</c>
+	</RemoveComponents>
+	<Compatibility protectHidden="false">
+		<ComponentFeatures>
+			<Feature enabled="no">NetworkDiscovery</Feature>
+			<Feature enabled="no">Battle.net</Feature>
+			<Feature enabled="no">VSS</Feature>
+			<Feature enabled="no">YubiKey</Feature>
+			<Feature enabled="no">Bluetooth</Feature>
+			<Feature enabled="no">CapFrameX</Feature>
+			<Feature enabled="no">Discord</Feature>
+			<Feature enabled="no">Recommended-Tablet</Feature>
+			<Feature enabled="no">FileSharing</Feature>
+			<Feature enabled="no">NightLight</Feature>
+			<Feature enabled="yes">ServicingStack</Feature>
+			<Feature enabled="no">Hyper-V</Feature>
+			<Feature enabled="no">iCloud</Feature>
+			<Feature enabled="yes">USBCamera</Feature>
+			<Feature enabled="no">Kaspersky</Feature>
+			<Feature enabled="no">OOBE</Feature>
+			<Feature enabled="no">ManualSetup</Feature>
+			<Feature enabled="no">OfficeSupport</Feature>
+			<Feature enabled="no">AppxSupport</Feature>
+			<Feature enabled="no">Netflix</Feature>
+			<Feature enabled="no">NvidiaSetup</Feature>
+			<Feature enabled="no">SamsungSwitch</Feature>
+			<Feature enabled="no">VPN</Feature>
+			<Feature enabled="no">ShellSearchSupport</Feature>
+			<Feature enabled="yes">SFC</Feature>
+			<Feature enabled="no">DefaultFonts</Feature>
+			<Feature enabled="no">Spotify</Feature>
+			<Feature enabled="no">Scanning</Feature>
+			<Feature enabled="no">TeamViewer</Feature>
+			<Feature enabled="no">USBModem</Feature>
+			<Feature enabled="yes">USB</Feature>
+			<Feature enabled="no">AppGuard</Feature>
+			<Feature enabled="no">VideoPlayback</Feature>
+			<Feature enabled="no">VisualStudio</Feature>
+			<Feature enabled="no">ActivationKMS</Feature>
+			<Feature enabled="no">Activation</Feature>
+			<Feature enabled="no">SafeMode</Feature>
+			<Feature enabled="no">WinSetup</Feature>
+			<Feature enabled="no">WindowsStore</Feature>
+			<Feature enabled="yes">WindowsUpdate</Feature>
+			<Feature enabled="no">WLAN</Feature>
+			<Feature enabled="no">Printing</Feature>
+			<Feature enabled="no">Recommended-All</Feature>
+		</ComponentFeatures>
+		<MachineDrivers>
+			<Machine enabled="no">HostMachine</Machine>
+			<Machine enabled="no">Hyper-V VM</Machine>
+			<Machine enabled="no">Parallels VM</Machine>
+			<Machine enabled="no">Virtual Box VM</Machine>
+			<Machine enabled="no">VMware VM</Machine>
+		</MachineDrivers>
+	</Compatibility>
+	<Features></Features>
+	<Packages></Packages>
+	<Commands>
+		<PostUpdates>
+			<!--<Command>cmd /c echo Example from [MOUNTDIR]\Windows &amp; pause</Command>-->
+			<!--<Command>dism /image:[MOUNTDIR] /get-intl</Command>-->
+		</PostUpdates>
+	</Commands>
+	<Drivers showHidden="false"></Drivers>
+	<Unattended mode="1">
+		<OEMSetupComplete>false</OEMSetupComplete>
+		<AnswerFileLocationPanther>false</AnswerFileLocationPanther>
+		<AnswerFileLocationBoot>false</AnswerFileLocationBoot>
+		<SaveBothArch>false</SaveBothArch>
+		<EditionPrompt>false</EditionPrompt>
+		<settings pass="oobeSystem">
+			<component name="Microsoft-Windows-Shell-Setup">
+				<AutoLogon>
+					<Enabled>true</Enabled>
+					<LogonCount>9999999</LogonCount>
+					<Username>Administrator</Username>
+					<Password>
+						<PlainText>true</PlainText>
+						<Value></Value>
+					</Password>
+				</AutoLogon>
+				<OEMInformation>
+					<Model>NikoOS 11 V1</Model>
+				</OEMInformation>
+				<UserAccounts>
+					<AdministratorPassword>
+						<PlainText>true</PlainText>
+						<Value></Value>
+					</AdministratorPassword>
+					<LocalAccounts>
+						<LocalAccount>
+							<Group>Administrators</Group>
+							<Name>Administrator</Name>
+							<Password>
+								<PlainText>true</PlainText>
+								<Value></Value>
+							</Password>
+						</LocalAccount>
+					</LocalAccounts>
+				</UserAccounts>
+			</component>
+		</settings>
+		<settings pass="specialize">
+			<component name="Microsoft-Windows-Deployment">
+				<RunSynchronous>
+					<RunSynchronousCommand>
+						<Order>1</Order>
+						<Path>net user Administrator /active:Yes</Path>
+						<WillReboot>Never</WillReboot>
+					</RunSynchronousCommand>
+				</RunSynchronous>
+			</component>
+		</settings>
+		<settings pass="windowsPE">
+			<component name="Microsoft-Windows-Setup">
+				<DynamicUpdate>
+					<WillShowUI>OnError</WillShowUI>
+				</DynamicUpdate>
+				<ImageInstall>
+					<OSImage>
+						<WillShowUI>OnError</WillShowUI>
+						<InstallFrom>
+							<MetaData>
+								<Key>/IMAGE/INDEX</Key>
+								<Value>1</Value>
+							</MetaData>
+						</InstallFrom>
+					</OSImage>
+				</ImageInstall>
+				<UserData>
+					<ProductKey>
+						<Key></Key>
+					</ProductKey>
+				</UserData>
+			</component>
+		</settings>
+	</Unattended>
+	<Tweaks>
+		<Settings>
+			<TweakGroup name="WindowsUpdateTasks">
+				<Tweak name="DevHomeUpdate\DevHomeUpdate">0</Tweak>
+				<Tweak name="EdgeUpdate\EdgeUpdate">0</Tweak>
+				<Tweak name="IA\IA">0</Tweak>
+				<Tweak name="LXP\LXP">0</Tweak>
+				<Tweak name="MACUpdate\MACUpdate">0</Tweak>
+				<Tweak name="OutlookUpdate\OutlookUpdate">0</Tweak>
+				<Tweak name="TFLUpdate\TFLUpdate">0</Tweak>
+			</TweakGroup>
+			<TweakGroup name="DesktopTweaks">
+				<Tweak name="Explorer\AltTabSettings">1</Tweak>
+				<Tweak name="WindowMetrics\MinAnimate">0</Tweak>
+				<Tweak name="Search\SearchboxTaskbarMode">1</Tweak>
+				<Tweak name="Advanced\TaskbarMn">0</Tweak>
+				<Tweak name="Advanced\TaskbarDa">0</Tweak>
+				<Tweak name="NewStartPanel\{20D04FE0-3AEA-1069-A2D8-08002B30309D}">0</Tweak>
+				<Tweak name="NewStartPanel\{645FF040-5081-101B-9F08-00AA002F954E}">0</Tweak>
+				<Tweak name="NewStartPanel\{59031a47-3f72-44a7-89c5-5595fe6b30ee}">0</Tweak>
+				<Tweak name="Communications\ConfigureChatAutoInstall">0</Tweak>
+				<Tweak name="Personalize\AppsUseLightTheme">0</Tweak>
+				<Tweak name="Personalize\SystemUsesLightTheme">0</Tweak>
+			</TweakGroup>
+			<TweakGroup name="System">
+				<Tweak name="LabConfig\BypassRAMCheck">1</Tweak>
+				<Tweak name="LabConfig\BypassTPMCheck">1</Tweak>
+				<Tweak name="MoSetup\AllowUpgradesWithUnsupportedTPMOrCPU">1</Tweak>
+				<Tweak name="System\NoConnectedUser">3</Tweak>
+				<Tweak name="Device\DevicePasswordLessBuildVersion">0</Tweak>
+				<Tweak name="OneDrive\DisableFileSyncNGSC">1</Tweak>
+				<Tweak name="GameConfigStore\GameDVR_FSEBehavior">0</Tweak>
+				<Tweak name="RDP-Tcp\UserAuthentication">0</Tweak>
+				<Tweak name="OOBE\BypassNRO">1</Tweak>
+			</TweakGroup>
+			<TweakGroup name="WindowsDefender">
+				<Tweak name="Policy\VerifiedAndReputablePolicyState">0</Tweak>
+				<Tweak name="Notifications\DisableEnhancedNotifications">1</Tweak>
+				<Tweak name="Notifications\DisableNotifications">1</Tweak>
+				<Tweak name="Features\TamperProtection">0</Tweak>
+				<Tweak name="State\AccountProtection_MicrosoftAccount_Disconnected">0</Tweak>
+				<Tweak name="Windows Defender\DisableAntiSpyware">1</Tweak>
+			</TweakGroup>
+			<TweakGroup name="WindowsUpdate">
+				<Tweak name="Settings\HideMCTLink">1</Tweak>
+				<Tweak name="Device Metadata\PreventDeviceMetadataFromNetwork">1</Tweak>
+				<Tweak name="Settings\IsExpedited">0</Tweak>
+				<Tweak name="Settings\IsContinuousInnovationOptedIn">0</Tweak>
+				<Tweak name="Settings\AllowAutoWindowsUpdateDownloadOverMeteredNetwork">0</Tweak>
+				<Tweak name="Settings\RestartNotificationsAllowed2">0</Tweak>
+				<Tweak name="WindowsUpdate\ExcludeWUDriversInQualityUpdate">1</Tweak>
+				<Tweak name="Preferences\ModelDownloadAllowed">0</Tweak>
+				<Tweak name="MRT\DontOfferThroughWUAU">1</Tweak>
+				<Tweak name="DriverSearching\SearchOrderConfig">0</Tweak>
+				<Tweak name="DeliveryOptimization\DODownloadMode">100</Tweak>
+				<Tweak name="WindowsStore\AutoDownload">0</Tweak>
+				<Tweak name="AU\NoAutoUpdate">1</Tweak>
+				<Tweak name="AU\AUOptions">2</Tweak>
+				<Tweak name="7971f918-a847-4430-9279-4a52d1efe18d\RegisterWithAU">0</Tweak>
+				<Tweak name="WindowsUpdate\DisableWUfBSafeguards">1</Tweak>
+			</TweakGroup>
+		</Settings>
+		<Services>
+			<TweakGroup name="services">
+				<Tweak name="DiagTrack\DiagTrack">4</Tweak>
+				<Tweak name="TapiSrv\TapiSrv">4</Tweak>
+				<Tweak name="PhoneSvc\PhoneSvc">4</Tweak>
+			</TweakGroup>
+		</Services>
+		<ExtraServices></ExtraServices>
+		<ScheduledTasks></ScheduledTasks>
+	</Tweaks>
+	<ApplyOptions>
+		<ImageTasks>
+			<Task>imageSaveRebuild</Task>
+			<Task>deledition_boot.wim_01_9_64</Task>
+			<Task>imageFormatEsd</Task>
+			<Task>imageOptionsCreateIso</Task>
+		</ImageTasks>
+		<AutoIsoFile>C:\Users\Niko\Desktop\MediaCreationTool.bat-main\NikoOS 11.iso</AutoIsoFile>
+		<AutoIsoLabel>NikoOS 11</AutoIsoLabel>
+		<AutoSplitSize>4000</AutoSplitSize>
+		<CleanHotfixedLeftovers>0</CleanHotfixedLeftovers>
+		<OptimizeAppX>false</OptimizeAppX>
+		<ReuseDriverCache>false</ReuseDriverCache>
+	</ApplyOptions>
+	<Execution>
+		<Remove></Remove>
+		<Change></Change>
+		<Add></Add>
+	</Execution>
+	<Registry></Registry>
+</Preset>
